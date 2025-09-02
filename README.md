@@ -1,8 +1,7 @@
 ## Olá! 👋
 
 # Lucas Cruz
-
-Sou desenvolvedor fullstack iniciante.
+Desenvolvedor fullstack iniciante.
 
 ---
 
@@ -14,12 +13,12 @@ Sou desenvolvedor fullstack iniciante.
 ---
 
 ## Formação
-- **PUC-Rio**
+  **PUC-Rio**
 - Doutorado em Neurociências (em andamento)  
-- **Alura**
+  **Alura**
 - Programação em JavaScript com foco em Back-End
 - Scrum: Agilidade em seu projeto
-- **Digital Innovation One (DIO)**
+  **Digital Innovation One (DIO)**
 - Lógica de Programação
 - Git e GitHub  
 
