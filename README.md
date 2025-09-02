@@ -1,16 +1,38 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**LucasCruzRJ/LucasCruzRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lucas Cruz
 
-Here are some ideas to get you started:
+Sou desenvolvedor fullstack iniciante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+- Tenho estudado e criado projetos usando HTML, CSS, JavaScript, React, Node.js, Express e MySQL.  
+- Experiência com Git/GitHub e metodologias ágeis (Scrum e KanBan).  
+- Valorizo aprendizado contínuo, organização e trabalho em equipe.
+
+---
+
+## Formação
+- **PUC-Rio**
+- Doutorado em Neurociências (em andamento)  
+- **Alura**
+- Programação em JavaScript com foco em Back-End
+- Scrum: Agilidade em seu projeto
+- **Digital Innovation One (DIO)**
+- Lógica de Programação
+- Git e GitHub  
+
+---
+
+## Idiomas
+- Inglês: avançado (TOEFL iBT 90)  
+- Espanhol: básico  
+
+---
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/lucas-cruz-rj/
+- Email: lucasv_rj@hotmail.com
+
+
