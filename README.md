@@ -1,5 +1,4 @@
-# Lucas Cruz
-Desenvolvedor fullstack.
+# Lucas Cruz - Desenvolvedor fullstack.
 ---
 ## Sobre mim
 - Tenho estudado e criado projetos usando HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, e SQLite.  
