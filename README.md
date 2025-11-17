@@ -1,11 +1,9 @@
-## Olá! 👋
-
 # Lucas Cruz
 Desenvolvedor fullstack.
 ---
 ## Sobre mim
-- Tenho estudado e criado projetos usando HTML, CSS, JavaScript, React, Node.js, Express e MySQL.  
-- Experiência com Git/GitHub e metodologias ágeis (Scrum e KanBan).  
+- Tenho estudado e criado projetos usando HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, e SQLite.  
+- Experiência com Git/GitHub, metodologias ágeis (Scrum).
 - Valorizo aprendizado contínuo, organização e trabalho em equipe.
 ---
 ## Formação
