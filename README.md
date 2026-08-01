@@ -1,25 +1,26 @@
-# Lucas Cruz - Desenvolvedor fullstack.
----
-## Sobre mim
-- Tenho estudado e criado projetos usando HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Docker, e  testes unitários
-- Experiência com Git/GitHub, metodologias ágeis (Scrum).
-- Valorizo aprendizado contínuo, organização e trabalho em equipe.
----
-## Formação
-- **PUC-Rio**
-  - Doutorado em Neurociências (em andamento)
-  - Mestrado em Neurociências
-  - Bacharelado em Psicologia
-- **Alura**
-  - [Minhas certificações Alura com meus cursos e formações: ](https://cursos.alura.com.br/user/lucasv-rj/fullCertificate/524098528d61621c9e0938a4b95f4cac)
-- **Digital Innovation One (DIO)**
-  - Lógica de Programação
-  - Git e GitHub
-## Idiomas
-- Inglês: avançado (TOEFL iBT 90)  
-- Espanhol: básico  
----
-## Contato
-- LinkedIn: https://www.linkedin.com/in/lucas-cruz-rj/
-- Email: lucasv_rj@hotmail.com
+# Olá, sou o Lucas 👋
 
+## Sobre mim
+
+Cientista de dados em formação, com base em desenvolvimento fullstack.
+Atualmente cursando pós-graduação em Data Science & Analytics e concluindo
+doutorado em Neurociência.
+
+- 🔭 Construindo projetos práticos de ponta a ponta: EDA, modelagem, interpretabilidade e deploy
+- 🧠 Doutorando em Neurociência (PUC-Rio) — experiência sólida com análise estatística
+- 🛠️ Conhecimentos básicos em desenvolvimento fullstack (JavaScript, Node.js, React)
+- 📊 Foco atual: Machine Learning, automação de dados, e IA aplicada
+
+## Projetos em destaque
+
+- **[modelo-risco-credito](https://github.com/LucasCruzRJ/modelo-risco-credito)** — Modelo de risco de inadimplência com XGBoost, interpretabilidade via SHAP, e deploy com FastAPI + Docker
+- Pipeline de automação de coleta de dados com n8n
+- Agente de WhatsApp com IA (WAHA + Gemini + Redis + Docker)
+- Dashboard de vendas farmacêuticas em Power BI
+- Detector facial em tempo real com OpenCV/Haar Cascade
+
+## Stack
+
+**Data Science:** Python · pandas · scikit-learn · XGBoost · SHAP · Power BI
+**Backend/Deploy:** FastAPI · Docker
+**Outros:** Git/GitHub · SQL ·
